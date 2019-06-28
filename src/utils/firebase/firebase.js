@@ -7,10 +7,10 @@ import { dialogTypes } from '../../components/Dialog/RenderDialog';
 import dbCommandRouter from '../db-command-router/db-command-router';
 
 const config = {
-    apiKey: "AIzaSyBiFViBxC_U4KRU8xVoW2lHXBo9FLdi5hE",
-    authDomain: "voicegrounddb.firebaseapp.com",
-    databaseURL: "https://voicegrounddb.firebaseio.com",
-    storageBucket: "gs://voicegrounddb.appspot.com"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    storageBucket: ""
   };
 
 if (!firebase.apps.length) {
